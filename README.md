@@ -1,8 +1,8 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/state-react-contador-tutorial/master/react-contador-state-tutorial%20%281%29.png)
+![Tutorial de como usar el STATE de REACT imagen 1](https://raw.githubusercontent.com/sergiecode/state-react-contador-tutorial/master/react-contador-state-tutorial%20%281%29.png)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/state-react-contador-tutorial/master/react-contador-state-tutorial%20%282%29.png)
+![Tutorial de como usar el STATE de REACT imagen 2](https://raw.githubusercontent.com/sergiecode/state-react-contador-tutorial/master/react-contador-state-tutorial%20%282%29.png)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/state-react-contador-tutorial/master/react-contador-state-tutorial%20%283%29.png)
+![Tutorial de como usar el STATE de REACT imagen 3](https://raw.githubusercontent.com/sergiecode/state-react-contador-tutorial/master/react-contador-state-tutorial%20%283%29.png)
 
 # ¿Qué es el STATE?
 
