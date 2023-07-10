@@ -23,7 +23,7 @@ En este ejemplo, estamos definiendo una variable de estado llamada `contador` y 
 ## Ejemplo práctico
 
 Ahora que ya sabemos qué es el `useState`, podemos utilizarlo en un ejemplo práctico. En este ejemplo, crearemos un componente `Contador` que utiliza el `state` para mostrar y actualizar un contador:
-
+```
     import React, { useState } from 'react';
     
     export default function Contador() {
@@ -45,7 +45,7 @@ Ahora que ya sabemos qué es el `useState`, podemos utilizarlo en un ejemplo pr�
         </div>
       );
     }
-
+```
 En este ejemplo, estamos definiendo un componente `Contador` que utiliza el `useState` para definir una variable de estado llamada `contador`. También definimos dos funciones `sumar` y `restar` que utilizan la función `setContador` para actualizar el valor del contador.
 
 Finalmente, el componente `Contador` renderiza un `div` que muestra el valor actual del contador y dos botones que llaman a las funciones `sumar` y `restar` cuando se hace clic en ellos.
